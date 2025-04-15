@@ -102,10 +102,10 @@ def key_event(window, key, scancode, action, mods):
             t_y -= 0.1
 
         if key == 263:
-            t_x += 0.1
+            t_x -= 0.1
 
         if key == 262:
-            t_x -= 0.1
+            t_x += 0.1
 
         # Escala
 
